@@ -1,9 +1,9 @@
-
-<h1 align="center">Hi 👋, I'm Jann Nicole</h1>
-<h3 align="center">A Computer Science student from De La Salle Universtiy - Dasmariñas</h3>
+<h1 align='center'>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Courier+New&size=24&duration=7000&color=0CF574&center=true&vCenter=true&width=1000&lines=ℍ𝕚+𝕥𝕙𝕖𝕣𝕖%2C+𝕀'𝕞+Jann+%F0%9F%91%A9%E2%80%8D%F0%9F%92%BB;A+Computer+Science+Student+from+De+La+Salle+University+-+Dasmariñas" width="1000">
+  <img src="https://media.tenor.com/AlUkiGkR2j8AAAAC/new-game-ahagon-umiko-programming.gif" alt="girl" width="320" align="center">
+</h1>
 
 <div align="center">  
-
 <img src="https://raw.githubusercontent.com/jannnicolesanjose/jannnicolesanjose/output/snake.svg" alt="Snake animation" />
 
 ## 💻 Tech Stack:
